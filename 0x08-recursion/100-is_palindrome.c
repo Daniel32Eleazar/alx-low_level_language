@@ -1,6 +1,5 @@
 #include "main.h"
 #include <stdio.h>
-#include <string.h>
 
 int check_pal(char *s, int i, int len);
 int _strlen_recursion(char *s);
